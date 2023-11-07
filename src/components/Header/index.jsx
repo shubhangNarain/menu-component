@@ -22,7 +22,7 @@ const variants = {
   }
 }
 
-export default function index() {
+export default function Home() {
 
   const [isActive, setIsActive] = useState(false)
 
